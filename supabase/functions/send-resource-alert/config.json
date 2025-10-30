@@ -1,0 +1,16 @@
+{
+  "name": "send-resource-alert",
+  "runtime": "deno",
+  "entrypoint": "index.ts",
+  "version": "1.0.0",
+  "env": {
+    "SENDGRID_API_KEY": {
+      "description": "SendGrid API key for sending emails",
+      "required": true
+    },
+    "FROM_EMAIL": {
+      "description": "Email address to send notifications from",
+      "required": true
+    }
+  }
+}
