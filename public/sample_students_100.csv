@@ -1,101 +1,54 @@
-student_id,paper_code,exam_name,exam_date,session
-S001,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S002,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S003,AM,Applied Mathematics,2025-11-01,Morning
-S004,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S005,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S006,AM,Applied Mathematics,2025-11-01,Morning
-S007,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S008,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S009,AM,Applied Mathematics,2025-11-01,Morning
-S010,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S011,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S012,AM,Applied Mathematics,2025-11-01,Morning
-S013,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S014,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S015,AM,Applied Mathematics,2025-11-01,Morning
-S016,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S017,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S018,AM,Applied Mathematics,2025-11-01,Morning
-S019,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S020,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S021,AM,Applied Mathematics,2025-11-01,Morning
-S022,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S023,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S024,AM,Applied Mathematics,2025-11-01,Morning
-S025,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S026,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S027,AM,Applied Mathematics,2025-11-01,Morning
-S028,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S029,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S030,AM,Applied Mathematics,2025-11-01,Morning
-S031,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S032,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S033,AM,Applied Mathematics,2025-11-01,Morning
-S034,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S035,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S036,AM,Applied Mathematics,2025-11-01,Morning
-S037,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S038,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S039,AM,Applied Mathematics,2025-11-01,Morning
-S040,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S041,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S042,AM,Applied Mathematics,2025-11-01,Morning
-S043,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S044,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S045,AM,Applied Mathematics,2025-11-01,Morning
-S046,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S047,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S048,AM,Applied Mathematics,2025-11-01,Morning
-S049,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S050,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S051,AM,Applied Mathematics,2025-11-01,Morning
-S052,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S053,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S054,AM,Applied Mathematics,2025-11-01,Morning
-S055,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S056,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S057,AM,Applied Mathematics,2025-11-01,Morning
-S058,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S059,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S060,AM,Applied Mathematics,2025-11-01,Morning
-S061,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S062,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S063,AM,Applied Mathematics,2025-11-01,Morning
-S064,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S065,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S066,AM,Applied Mathematics,2025-11-01,Morning
-S067,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S068,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S069,AM,Applied Mathematics,2025-11-01,Morning
-S070,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S071,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S072,AM,Applied Mathematics,2025-11-01,Morning
-S073,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S074,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S075,AM,Applied Mathematics,2025-11-01,Morning
-S076,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S077,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S078,AM,Applied Mathematics,2025-11-01,Morning
-S079,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S080,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S081,AM,Applied Mathematics,2025-11-01,Morning
-S082,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S083,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S084,AM,Applied Mathematics,2025-11-01,Morning
-S085,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S086,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S087,AM,Applied Mathematics,2025-11-01,Morning
-S088,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S089,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S090,AM,Applied Mathematics,2025-11-01,Morning
-S091,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S092,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S093,AM,Applied Mathematics,2025-11-01,Morning
-S094,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S095,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S096,AM,Applied Mathematics,2025-11-01,Morning
-S097,MLM,Mathematics for Machine Learning,2025-11-01,Morning
-S098,MDM,Mathematics for Data Mining,2025-11-01,Morning
-S099,AM,Applied Mathematics,2025-11-01,Morning
-S100,MLM,Mathematics for Machine Learning,2025-11-01,Morning
+Roll No,Name,Department,Gender,Paper Code
+S001,HFFG,cse,M,MDM
+S002,FGGD,cse,M,MDM
+S003,FGFS,cse,M,MDM
+S004,GSGRJGM,cse,M,MDM
+S005,HGJY,cse,M,MDM
+S006,YFJY,cse,M,MDM
+S007,GHJG,cse,M,MDM
+S008,GVCYG,cse,M,MDM
+S009,GYJUUUO,cse,M,MDM
+S010,K;TF,cse,M,MDM
+S011,HGV,cse,M,MDM
+S012,UHKJ,cse,M,MDM
+S013,HK,cse,M,MDM
+S014,HUK,cse,M,MDM
+S015,UIUH,cse,M,MDM
+S016,UHVK,cse,M,MDM
+S017,GUK,cse,M,MDM
+S018,UGKGU,cse,M,MDM
+S019,GUI,cse,M,MDM
+S020,GUYIK,cse,M,MDM
+S021,CG,cse,M,MDM
+S022,JJJGYC,cse,M,MDM
+S023,JGV,cse,M,MDM
+S024,GCJ,cse,M,MDM
+S025,JFTJ,cse,M,MDM
+S026,AESR,cse,M,MDM
+S027,GB,cse,M,MDM
+S028,JHK,cse,M,MDM
+S029,VHN,cse,M,MDM
+S030, FDG,cse,M,MDM
+S031,CGH,cse,M,MDM
+S032,YOIYIOO,cse,M,MDM
+S033,CFGH,cse,M,MDM
+S034,XG,cse,M,MDM
+S035,XFG,cse,M,MDM
+S036,XFGFCG,cse,M,MDM
+S037,RTR,cse,M,MDM
+S038,OJ,cse,M,MDM
+S039,OIH,cse,M,MDM
+S040,GHJN,cse,M,MDM
+S041,SDH,cse,M,MDM
+S042,FFGG,cse,M,MDM
+S043,GFJH,cse,M,MDM
+S044,VNFH,cse,M,MDM
+S045,BVNBV,cse,M,MDM
+S046,XC,cse,M,MDM
+S047,GFN,cse,M,MDM
+S048,GN,cse,M,MDM
+S049,FYJH,cse,M,MDM
+S050,CVBF,cse,M,MDM
+S051,HFNFH,cse,M,MDM
+S052,FADFA,cse,M,MDM
+S053,FDYE,cse,M,MDM
